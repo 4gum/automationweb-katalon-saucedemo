@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>FullScreenBrowser</description>
+   <name>SD001 - Navigate Browser Full Screen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7c61f2a1-b970-48a7-89e9-d833749c950f</testCaseGuid>
+</TestCaseEntity>
