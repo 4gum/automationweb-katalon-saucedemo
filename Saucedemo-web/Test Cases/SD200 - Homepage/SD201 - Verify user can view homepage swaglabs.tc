@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SD201 - Verify user can view homepage swaglabs</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a0cf9d79-de77-41b1-96f9-e88954db2e0d</testCaseGuid>
+</TestCaseEntity>
